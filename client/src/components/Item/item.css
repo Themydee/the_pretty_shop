@@ -1,9 +1,14 @@
 .item{
-    width: 30px;
+    width: 250px;
+    
+}
+
+.item img{
+    width: 200px;
 }
 
 .item p{
-    margin: 6px 0;
+    padding: 20px 0;
 }
 
 .item-prices{
