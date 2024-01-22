@@ -12,6 +12,14 @@ const Descriptionbox = () => {
         <div className="descriptionbox-description">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam delectus corrupti temporibus fugiat sit fuga esse, totam suscipit in, harum mollitia eos itaque quaerat natus?</p>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt id voluptatibus, iste eum error necessitatibus dicta perspiciatis recusandae nihil totam, repellat ratione maxime quibusdam deserunt. Labore fugit aut nam assumenda!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam delectus corrupti temporibus fugiat sit fuga esse, totam suscipit in, harum mollitia eos itaque quaerat natus?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt id voluptatibus, iste eum error necessitatibus dicta perspiciatis recusandae nihil totam, repellat ratione maxime quibusdam deserunt. Labore fugit aut nam assumenda!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam delectus corrupti temporibus fugiat sit fuga esse, totam suscipit in, harum mollitia eos itaque quaerat natus?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt id voluptatibus, iste eum error necessitatibus dicta perspiciatis recusandae nihil totam, repellat ratione maxime quibusdam deserunt. Labore fugit aut nam assumenda!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam delectus corrupti temporibus fugiat sit fuga esse, totam suscipit in, harum mollitia eos itaque quaerat natus?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt id voluptatibus, iste eum error necessitatibus dicta perspiciatis recusandae nihil totam, repellat ratione maxime quibusdam deserunt. Labore fugit aut nam assumenda!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam delectus corrupti temporibus fugiat sit fuga esse, totam suscipit in, harum mollitia eos itaque quaerat natus?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt id voluptatibus, iste eum error necessitatibus dicta perspiciatis recusandae nihil totam, repellat ratione maxime quibusdam deserunt. Labore fugit aut nam assumenda!</p>
             
         </div>
     </div>

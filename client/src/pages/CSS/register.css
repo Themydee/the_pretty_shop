@@ -38,11 +38,16 @@
     width: 100%;
     padding-left: 20px;
     outline: none;
-    color: #5c5c5c;
+    color: black;
     font-size: 18px;
     border: none;
     border-radius: 50px;
     background: transparent;
+}
+
+.loginsignup-fields input:hover{
+    border: 1px solid #5c5c5c;
+    color: black;
 }
 
 .loginsignup-container button{
