@@ -21,7 +21,7 @@ const Navbar = () => {
     <div className='navbar'>
         <div className="nav-logo">
             <img src={logo}alt="" />
-            <p>OYIZAS SHOP</p>
+            <p>THE PRETTY SHOP</p>
         </div>
 
         <img className='nav-dropdown' onClick={dropdown_toggle} src={nav_drop_down} style={{width: '30px' }}alt="" />
