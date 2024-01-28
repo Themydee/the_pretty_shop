@@ -20,6 +20,13 @@
     font-weight: 600;
 }
 
+.hero-left hr{
+    width: 100px;
+    height: 6px;
+    border-radius: 10px;
+    background: #ff4141;
+}
+
 .hero-left p{
     color: #171717;
     font-weight: 700;
